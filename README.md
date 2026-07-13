@@ -11,9 +11,9 @@ Grab the latest build from the [Releases page](https://github.com/fuck-eer/copyc
 | Platform | File | Status |
 |----------|------|--------|
 | macOS 12+ | `copy-cat-setup-mac.dmg` | Beta |
-| Windows 10+ | `copy-cat-setup-windows.exe` | Coming soon — [join the waitlist](https://copycat.example.com) |
+| Windows 10+ | `copy-cat-setup-windows.exe` | Coming soon — [join the waitlist](https://copykat.xyz) |
 
-Or get it from the landing page, which tracks beta seats: **[Copy-Cat website](https://copycat.example.com)**
+Or get it from the landing page, which tracks beta seats: **[Copy-Cat website](https://copykat.xyz)**
 
 ## Feedback & Issues
 
