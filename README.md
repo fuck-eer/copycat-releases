@@ -1,6 +1,6 @@
-# Copy-Cat — Releases
+# CopyKat — Releases
 
-**Copy-Cat** gives your clipboard 9 lives: nine keyboard-driven clipboard slots plus pinned items, without changing the copy/paste habits you already have.
+**CopyKat** gives your clipboard 9 lives: nine keyboard-driven clipboard slots plus pinned items, without changing the copy/paste habits you already have.
 
 This repository hosts the downloadable builds. The source code lives in a private repository.
 
@@ -10,10 +10,10 @@ Grab the latest build from the [Releases page](https://github.com/fuck-eer/copyc
 
 | Platform | File | Status |
 |----------|------|--------|
-| macOS 12+ | `copy-cat-setup-mac.dmg` | Beta |
-| Windows 10+ | `copy-cat-setup-windows.exe` | Coming soon — [join the waitlist](https://copykat.xyz) |
+| macOS 12+ | `copykat-setup-mac.dmg` | Beta |
+| Windows 10+ | `copykat-setup-windows.exe` | Coming soon — [join the waitlist](https://copykat.xyz) |
 
-Or get it from the landing page, which tracks beta seats: **[Copy-Cat website](https://copykat.xyz)**
+Or get it from the landing page, which tracks beta seats: **[CopyKat website](https://copykat.xyz)**
 
 ## Feedback & Issues
 
